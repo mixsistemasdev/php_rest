@@ -1,3 +1,0 @@
-<?php
-    echo 'tamo ai';
-    
